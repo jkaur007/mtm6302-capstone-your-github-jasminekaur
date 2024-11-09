@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="logo">
+            <img src="logo.png" alt="Logo">
+        </div>
+        <h2 class="header-title">Quiz<br>You Grow</h2>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About Us</a>
+        </nav>
+    </header>
+
+
+    <div class="container">
+        <h1>Quiz App</h1>
+        <p>Number of Correct Answers: <span id="correctCount">0</span></p>
+        <p>Number of Incorrect Answers: <span id="incorrectCount">0</span></p>
+        
+        <div id="difficulty-form">
+            <label for="difficulty">Select Difficulty:</label>
+            <select id="difficulty">
+                <option value="easy">Easy</option>
+                <option value="medium">Medium</option>
+                <option value="hard">Hard</option>
+            </select>
+            <button id="startQuizBtn">Start Quiz</button>
+        </div>
+        
+        <div id="question-container" style="display: none;">
+            <p id="question"></p>
+            <div id="answers"></div>
+            <button id="submitAnswerBtn">Submit Answer</button>
+        </div>
+        
+        <button id="resetBtn">Reset Stats</button>
+    </div>
+
+
+    <footer>
+        <p>&copy; 2024 Made by Jasmine</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

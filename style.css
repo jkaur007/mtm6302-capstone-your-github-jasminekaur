@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-image: url(''); /* Specify the image path */
+    background-image: url('bg.jpg'); /* Specify the image path */
     background-size: cover; /* Make the image cover the entire area */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Prevent the image from repeating */

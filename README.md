@@ -24,16 +24,17 @@ If your Answer is correct you will get a Pop up Notification for the Correct Ans
 ![4](https://github.com/user-attachments/assets/dbc64184-0fcd-4b4a-9a95-b613830176ae)
 
 Then You Would again be able to select the Level from Easy Medium Hard and then we can click on start quiz.(Now i selected Medium)
+![9](https://github.com/user-attachments/assets/6e659eb3-4d05-4cdc-923d-6dee7cb62cf3)
 
-![5](https://github.com/user-attachments/assets/349ca3cb-1c8a-4803-8aec-46d0499bdb96)
+
 
 So Now the Answer is wrong Answer so the Pop up will say wrong answer.
 
 ![7](https://github.com/user-attachments/assets/d2e055c1-439d-4e3c-a617-72ee2adf545a)
 
 The Score will be added to previous one.
+![5](https://github.com/user-attachments/assets/349ca3cb-1c8a-4803-8aec-46d0499bdb96)
 
-![9](https://github.com/user-attachments/assets/6e659eb3-4d05-4cdc-923d-6dee7cb62cf3)
 
 Also I have Made a About Us page
 

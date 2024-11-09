@@ -1,9 +1,9 @@
-Name:jasmine kaur
-student no: 041131278
-subject: web development 
-project choose : quiz project (test)
-Assignment completed
-# mtm6302-capstone-your-github-jasminekaur
+Name:jasmine kaur<br>
+student no: 041131278<br>
+subject: web development <br>
+project choose : quiz project (test)<br>
+Assignment completed<br>
+<h1># mtm6302-capstone-your-github-jasminekaur<h1><br>
 It highlights your ability to create a responsive, interactive app that offers real-time user feedback, customizable difficulty levels, and persistent data storage—all without page reloads. This demonstrates our ability to build dynamic, user-friendly applications.
 
 Home Page

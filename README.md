@@ -33,7 +33,8 @@ So Now the Answer is wrong Answer so the Pop up will say wrong answer.
 ![7](https://github.com/user-attachments/assets/d2e055c1-439d-4e3c-a617-72ee2adf545a)
 
 The Score will be added to previous one.
-![5](https://github.com/user-attachments/assets/349ca3cb-1c8a-4803-8aec-46d0499bdb96)
+
+![9](https://github.com/user-attachments/assets/c3a3dbc6-30c8-4394-be0d-db98d363b871)
 
 
 Also I have Made a About Us page

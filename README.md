@@ -10,7 +10,6 @@ It highlights your ability to create a responsive, interactive app that offers r
 Home Page
 
 
-
 We can select the level of Quiz from Easy Medium Hard and then we can click on start quiz.(I selected Easy)
 
 ![2](https://github.com/user-attachments/assets/94aa854c-c126-4bb0-b7f6-aa0d5a7ae203)

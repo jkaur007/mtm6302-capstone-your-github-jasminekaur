@@ -3,45 +3,52 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Quiz Application</title>
+    <title>Quiz App</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+
     <header>
-        <h1>QUIZ YOU GROW</h1>
+        <div class="logo">
+            <img src="logo.png" alt="Logo">
+        </div>
+        <h2 class="header-title">Quiz<br>You Grow</h2>
         <nav>
-            <a href="#">Home</a>
-            <a href="#">Quiz</a>
-            <a href="#">About us</a>
+            <a href="index.html">Home</a>
+            <a href="about.html">About Us</a>
         </nav>
     </header>
-    <main>
-        <section class="intro">
-            <h2>Welcome to the Quiz!</h2>
-            <p>Select a difficulty level to start:</p>
-            <form id="difficulty-form">
-                <select id="difficulty-select">
-                    <option value="easy">Easy</option>
-                    <option value="medium">Medium</option>
-                    <option value="hard">Hard</option>
-                </select>
-                <button type="submit">Get Question</button>
-            </form>
-        </section>
-        <section id="quiz-section" class="hidden">
-            <div id="question-container"></div>
-            <form id="answer-form"></form>
-            <button id="submit-answer">Submit Answer</button>
-            <div id="result-message"></div>
-            <button id="next-question">Next Question</button>
-        </section>
-        <section class="score">
-            <h3>Score</h3>
-            <p>Correct: <span id="correct-count">0</span></p>
-            <p>Incorrect: <span id="incorrect-count">0</span></p>
-            <button id="reset-score">Reset Score</button>
-        </section>
-    </main>
+
+
+    <div class="container">
+        <h1>Quiz App</h1>
+        <p>Number of Correct Answers: <span id="correctCount">0</span></p>
+        <p>Number of Incorrect Answers: <span id="incorrectCount">0</span></p>
+        
+        <div id="difficulty-form">
+            <label for="difficulty">Select Difficulty:</label>
+            <select id="difficulty">
+                <option value="easy">Easy</option>
+                <option value="medium">Medium</option>
+                <option value="hard">Hard</option>
+            </select>
+            <button id="startQuizBtn">Start Quiz</button>
+        </div>
+        
+        <div id="question-container" style="display: none;">
+            <p id="question"></p>
+            <div id="answers"></div>
+            <button id="submitAnswerBtn">Submit Answer</button>
+        </div>
+        
+        <button id="resetBtn">Reset Stats</button>
+    </div>
+
+
+    <footer>
+        <p>&copy; 2024 Made by Jasmine</p>
+    </footer>
+
     <script src="script.js"></script>
 </body>
 </html>

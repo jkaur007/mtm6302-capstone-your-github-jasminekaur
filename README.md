@@ -60,7 +60,7 @@ Scores persist even after refreshing the page, thanks to localStorage.
 A Reset button allows users to reset their scores (correct and incorrect counts) to zero.
 6. About Us Page
 Includes additional information about the quiz app and its functionality.
-Challenges Faced
+7.Challenges Faced
 Dynamic Content Handling:
 Managing seamless transitions between questions without page reloads.
 Timer Implementation (if applicable):
@@ -69,8 +69,6 @@ Cross-Browser Compatibility:
 Adjusting CSS and JavaScript to ensure consistent behavior across different browsers.
 Mobile Responsiveness:
 Optimizing the layout for smaller screens to ensure usability.
-Screenshots and Explanation
-
 
 We can select the level of Quiz from Easy Medium Hard and then we can click on start quiz.(I selected Easy)
 

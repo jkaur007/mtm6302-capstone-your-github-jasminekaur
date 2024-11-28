@@ -61,8 +61,8 @@ A Reset button allows users to reset their scores (correct and incorrect counts)
 6. About Us Page
 Includes additional information about the quiz app and its functionality.<br>
 
-1.<h2><stronge>Challenges Faced </stronge><h2>
-<p>Dynamic Content Handling:
+1.<h3>Challenges Faced </h3>
+Dynamic Content Handling:
 Managing seamless transitions between questions without page reloads.
 Timer Implementation (if applicable):
 Ensuring accurate timers for questions.
@@ -106,5 +106,5 @@ Key Learning Outcomes:
 Efficient use of JavaScript for dynamic content handling.
 Enhanced debugging skills to ensure functionality across devices and browsers.
 Improved understanding of API integration and client-side storage.
-</p>
-Thank You For Reading. Have  a Good Day.
+
+<i>Thank You For Reading. Have  a Good Day.</i>

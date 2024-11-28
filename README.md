@@ -60,7 +60,8 @@ Scores persist even after refreshing the page, thanks to localStorage.
 A Reset button allows users to reset their scores (correct and incorrect counts) to zero.
 6. About Us Page
 Includes additional information about the quiz app and its functionality.<br>
-->.<stronge>Challenges Faced <stronge>
+
+1.<h2><stronge>Challenges Faced <stronge><h2>
 Dynamic Content Handling:
 Managing seamless transitions between questions without page reloads.
 Timer Implementation (if applicable):

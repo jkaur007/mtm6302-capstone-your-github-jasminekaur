@@ -62,7 +62,7 @@ A Reset button allows users to reset their scores (correct and incorrect counts)
 Includes additional information about the quiz app and its functionality.<br>
 
 1.<h2><stronge>Challenges Faced <stronge><h2>
-Dynamic Content Handling:
+<p>Dynamic Content Handling:
 Managing seamless transitions between questions without page reloads.
 Timer Implementation (if applicable):
 Ensuring accurate timers for questions.
@@ -72,7 +72,7 @@ Mobile Responsiveness:
 Optimizing the layout for smaller screens to ensure usability.
 
 We can select the level of Quiz from Easy Medium Hard and then we can click on start quiz.(I selected Easy)
-
+<p>
 ![2](https://github.com/user-attachments/assets/94aa854c-c126-4bb0-b7f6-aa0d5a7ae203)
 
 Select the Answer and then click on Submit

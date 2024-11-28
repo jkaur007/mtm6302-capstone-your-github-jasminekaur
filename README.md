@@ -61,7 +61,7 @@ A Reset button allows users to reset their scores (correct and incorrect counts)
 6. About Us Page
 Includes additional information about the quiz app and its functionality.<br>
 
-1.<h3>Challenges Faced </h3>
+<h3>Challenges Faced </h3>
 Dynamic Content Handling:
 Managing seamless transitions between questions without page reloads.
 Timer Implementation (if applicable):
